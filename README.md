@@ -5,22 +5,22 @@ This is the project from the [YouTube crash course](https://www.youtube.com/watc
 
 ## Usage
 
-Install dependencies
+### Install dependencies
 ```sh
 yarn
 ```
 
-Run Vite dev server (<http://localhost:3000>)
+### Run Vite dev server (<http://localhost:3000>)
 ```sh
 yarn dev
 ```
 
-Run the JSON server (<http://localhost:5000>)
+### Run the JSON server (<http://localhost:5000>)
 ```sh
 yarn server
 ```
 
-To build for production
+### To build for production
 ```sh
 yarn build
 ```
